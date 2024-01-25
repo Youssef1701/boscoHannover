@@ -1,0 +1,34 @@
+{
+  "name": "newbornbrew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vite.config.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "vercel --prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abitsalihu/newborn.git"
+  },
+  "author": "abi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abitsalihu/newborn/issues"
+  },
+  "homepage": "https://github.com/abitsalihu/newborn#readme",
+  "dependencies": {
+    "gsap": "^3.11.5",
+    "lil-gui": "^0.18.1",
+    "stats": "^1.0.0",
+    "stats.js": "^0.17.0",
+    "three": "^0.152.2",
+    "vercel": "^29.3.0",
+    "vite": "^4.3.5"
+  },
+  "devDependencies": {
+    "vite-plugin-glsl": "^1.1.2"
+  }
+}
