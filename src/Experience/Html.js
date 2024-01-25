@@ -64,7 +64,7 @@ export default class HTML {
     this.bg = document.createElement("div");
     this.bg.classList.add("bg");
     this.bgContent = `  <div class="title">
-        <h1>NewBorn</h1>
+        <h1>Bosco Hanover</h1>
         <h2>brew</h2>
       </div>
       <div class="load-con">
@@ -104,7 +104,7 @@ export default class HTML {
     this.simpleWebsite.classList.add("simple-website");
 
     this.simpleWebsite.innerHTML = `<div class="eventTitle">
-        <h1>NewBorn</h1>
+        <h1>Bosco Hanover</h1>
         <h2>brew</h2>
       </div>
       <div class="fPage">
@@ -267,7 +267,7 @@ export default class HTML {
        
       </div>
       <div class="simple-SignUp">
-        <a class="signUp_link light" href="https://linktr.ee/newbornbrew">Sign Up</a>
+        <a class="signUp_link light" href="https://linktr.ee/Bosco Hanoverbrew">Sign Up</a>
       </div>
       `;
 
@@ -279,7 +279,7 @@ export default class HTML {
     this.signUp.classList.add("signUp-con");
     this.signUp.innerHTML = `
     <div class="signUp">
-        <a class="signUp_link" href="https://linktr.ee/newbornbrew">Sign Up</a>
+        <a class="signUp_link" href="https://linktr.ee/Bosco Hanoverbrew">Sign Up</a>
       </div>
     `;
 
